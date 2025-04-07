@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using TaskTracker.Models; // Importing the TaskTracker.Models namespace to access Status enum
+using TaskTracker.Models;
 using TaskTracker.Services;
 
 var argsList = args.ToList();

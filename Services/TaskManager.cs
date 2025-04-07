@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using TaskTracker.Models; // Importing TaskItem and Status from TaskTracker.Models
+using TaskTracker.Models; 
 
 namespace TaskTracker.Services
 {
@@ -33,7 +33,7 @@ namespace TaskTracker.Services
             File.WriteAllText(FileName, JsonSerializer.Serialize(tasks, new JsonSerializerOptions
             {
                 WriteIndented = true,
-                Converters = { new JsonStringEnumConverter() } // Adding converter for proper enum handling
+                Converters = { new JsonStringEnumConverter() } 
             }));
 
         private TaskItem? GetById(int id) => tasks.FirstOrDefault(t => t.Id == id);
@@ -44,7 +44,7 @@ namespace TaskTracker.Services
             {
                 Id = tasks.Count > 0 ? tasks.Max(t => t.Id) + 1 : 1,
                 Description = description,
-                Status = Status.Todo, // Default status is Todo
+                Status = Status.Todo, 
                 CreatedAt = DateTime.Now,
                 UpdatedAt = DateTime.Now
             };
@@ -89,7 +89,7 @@ namespace TaskTracker.Services
         {
             var filteredTasks = filter switch
             {
-                "done" => tasks.Where(t => t.Status == Status.Complete),
+                "complete" => tasks.Where(t => t.Status == Status.Complete),
                 "in-progress" => tasks.Where(t => t.Status == Status.InProgress),
                 "todo" => tasks.Where(t => t.Status == Status.Todo),
                 _ => tasks
