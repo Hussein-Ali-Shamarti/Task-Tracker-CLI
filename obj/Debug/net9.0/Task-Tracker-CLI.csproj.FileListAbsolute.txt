@@ -1,0 +1,15 @@
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/bin/Debug/net9.0/Task-Tracker-CLI
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/bin/Debug/net9.0/Task-Tracker-CLI.deps.json
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/bin/Debug/net9.0/Task-Tracker-CLI.runtimeconfig.json
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/bin/Debug/net9.0/Task-Tracker-CLI.dll
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/bin/Debug/net9.0/Task-Tracker-CLI.pdb
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.AssemblyInfoInputs.cache
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.AssemblyInfo.cs
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.csproj.CoreCompileInputs.cache
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.sourcelink.json
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.dll
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/refint/Task-Tracker-CLI.dll
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.pdb
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/Task-Tracker-CLI.genruntimeconfig.cache
+/Users/husseinshamarti/Desktop/Skole/Bachelor-SearchMotorAI/Task-Tracker-CLI/obj/Debug/net9.0/ref/Task-Tracker-CLI.dll
